@@ -1,0 +1,3 @@
+Knapsack algoritam
+
+Napisati kod koji služi za generisanje ključeva, kodovanje i dekodovanje po ovom algoritmu. Korisnik treba da zada prvi član supperrastućeg niza kao i broj članova niza, a da program na osnovu njega predloži neki superrastući niz i generiše ključ po Knapsack algoritmu. Ukoliko korisnik želi, može da promeni broj članova niza, u tom slučaju program treba da preračuna ključeve, M i N ponovo (ako je nova dimenzija niza manja od početne program samo treba da odbaci nepotrebne članove).  Treba omogućiti korisniku da može da promeni i svaki od članova niza pojedinačno, i u tom slučaju takođe treba preračunati ključeve.
